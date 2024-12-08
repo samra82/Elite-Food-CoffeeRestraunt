@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.bg-hero-image {
+  background-image: url('/assets/header.svg'); /* No need to use './public' */
+}
